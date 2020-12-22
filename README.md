@@ -11,4 +11,6 @@ You're allowed to download to view the story but not allowed to submit this as y
 
 Feel free to contact me about this or any other project.
 
+Link to more Ink complete guide: https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md
+
 All the best and best regards :)
